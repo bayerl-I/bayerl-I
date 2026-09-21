@@ -39,4 +39,4 @@ My focus is on connecting the physical world with modern software systems: **cap
 
 ### 📫 Connect With Me
 
-- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/artiom-bayerl-31011b283/)
+- **LinkedIn:** https://www.linkedin.com/in/artiom-bayerl-31011b283/
